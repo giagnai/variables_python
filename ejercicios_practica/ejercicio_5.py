@@ -24,4 +24,5 @@ dos_letras = palabra_2[0:2]
 
 # Formar una nueva palabra con los recortes solicitados
 # Imprima en pantalla los resultados
-print(tres_letras, dos_letras)
+palabra_nueva = tres_letras + dos_letras
+print('La palabra formada es: ', palabra_nueva)
