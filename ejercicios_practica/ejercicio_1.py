@@ -9,7 +9,7 @@
 
 # Ejercicios de práctica numérica
 
-numero_1 = 5
+numero_1 = 9
 numero_2 = 7
 
 # Realizar la suma de las dos variables
@@ -17,8 +17,12 @@ numero_2 = 7
 # Almacenar el valor de la suma en una variable
 # ej:
 # operacion = .....
+suma = numero_1 + numero_2;
+resta = numero_1 - numero_2;
 
 # Imprimir en pantalla el resultado de la suma
 # print(....)
+print ("El resultado de la suma es: ", suma);
 
 # Repita el procedimiento para realizar la resta
+print ("El resultado de la resta es: ", resta);
